@@ -1,4 +1,4 @@
-# awesome-education
+# Awesome Education
 😎 Curated list of awesome educational software
 
 ## License
